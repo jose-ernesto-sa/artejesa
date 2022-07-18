@@ -1,0 +1,31 @@
+.coloramarillo{
+	color: yellow !important;
+}
+.colornegro{
+	color: black !important;
+}
+a:visited {
+ 	color: yellow;
+ 	text-decoration: none;
+}
+a:link {
+ 	color: yellow;
+ 	text-decoration: none;
+}
+a:hover {
+ 	color: grey;
+ 	text-decoration: none;
+}
+a:active {
+ 	color: blue;
+ 	text-decoration: none;
+}
+ul{
+	list-style: none;
+}
+i{
+	color: grey !important;
+}
+video{
+	max-width: 90%;
+}
